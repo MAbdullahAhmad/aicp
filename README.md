@@ -4,6 +4,7 @@ Artificial Intelligence Competition Preparation
 ## Directory Structure
 ```
 /
+│
 ├── notes/
 │
 ├── projects/
