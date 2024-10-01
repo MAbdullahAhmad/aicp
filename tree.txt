@@ -1,0 +1,18 @@
+.
+├── notes
+│   └── README.md
+├── projects
+│   └── README.md
+├── README.md
+├── study
+│   ├── abc
+│   │   └── README.md
+│   ├── assignments
+│   │   └── README.md
+│   └── tasks
+│       └── README.md
+├── tree.txt
+└── xyz
+    └── README.md
+
+7 directories, 8 files
