@@ -9,9 +9,9 @@ Artificial Intelligence Competition Preparation
 ├── projects/
 │
 ├── study
-│   ├── abc
-│   ├── assignments
-│   └── tasks
+│   ├── abc/
+│   ├── assignments/
+│   └── tasks/
 │
 ├── xyz/
 │
