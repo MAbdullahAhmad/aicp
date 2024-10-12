@@ -1,0 +1,3 @@
+- pyresparser: resume parser. 
+- pdfminer3: extract pdf text
+- pafy? (youtube)
